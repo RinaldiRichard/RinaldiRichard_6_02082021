@@ -4,7 +4,7 @@ Apres avoir copié le repo, exécutez la commande npm install dans le dossier ba
 
 Le message "Listening on port 3000" ainsi que "connection a MongoDB réussie" apparaîtront dans la fenêtre du terminal
 
-Retournez à la racine du dossier via la commande cd .. puis faites cd frontend
+Ouvrez un deuxième terminal puis faites cd frontend
 Éxécutez également npm install puis npm start
 
 La page s'ouvrira sur une fenêtre de Login
